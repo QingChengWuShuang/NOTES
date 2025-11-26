@@ -4,7 +4,7 @@
 
 ## NOTES_FOR_NWPU
 
-本Github项目为 ** 西北工业大学某某某学院某某某某年级的 $MirrorMoon$  **同学维护的项目。
+本Github项目为 ** 西北工业大学某某某学院2024级的 $MirrorMoon$  **同学维护的项目。
 
 
 
@@ -26,7 +26,7 @@
 
 ## 经验分享
 
-TO BE Continue....
+To Be Continue....
 
 
 
